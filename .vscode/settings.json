@@ -1,0 +1,6 @@
+{
+  "editor.formatOnSave": true,
+  "solidity.compileOnSave": true,
+  "solidity.defaultCompiler": "remote",
+  "solidity.remixNodeUrl": "https://solc.ethereum.org "
+}
